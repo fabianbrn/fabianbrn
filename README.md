@@ -15,8 +15,5 @@
 [postgresql]: https://www.postgresql.org
 [postgresql-shield]: https://img.shields.io/badge/postgresql-%2340698c.svg?style=for-the-badge&logo=postgresql&logoColor=white
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fabianbrn&card_height=175)](https://git.io/streak-stats) <br/>
-  
-![](https://komarev.com/ghpvc/?username=fabianbrn&color=456f9c)
 
 </div>
